@@ -9,6 +9,7 @@ Jupyter gmaps and google maps javascript API. Google Places API was called to fi
 weather conditions. Finally humidity and the locations of hotels were plotted on a google map. 
 
 Files:
+
 Weather_api_caller_final.ipynb - This notebook is designed to loop calls to the OpenWeatherMap API, organize the data, and
 write the results out to a .csv file
 
