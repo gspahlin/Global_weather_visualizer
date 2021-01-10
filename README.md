@@ -19,3 +19,7 @@ the google maps APIs
 
 city_weather_1_5_21_try2.csv  - this is an output file from the first notebook, which is analyzed in the second. It contains data from OpenWeatherMap API
 collected on 1/5/21
+
+Global_Weather_Survey.py - I decided to modify Weather_api_caller_final.ipynb into a script so that I could run it on the command line and easily get a 
+survey of weather data from across the planet. The script tests to see if it can call London, and shuts down if the api cant be reached on that call. It also asks
+for imput so that you can name the file without editing the code, and reports the number of cities called, and the number of rows of data collected. 
