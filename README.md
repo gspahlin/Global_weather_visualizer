@@ -27,3 +27,6 @@ for imput so that you can name the file without editing the code, and reports th
 
 Temp_map_plotter4.ipynb  - An interactive weather map which uses a .csv imput, and allows temperatures to be visualized in ranges. Button controls from the 
 ipywidgets library allow each range to be turned on and off. 
+
+![image](https://user-images.githubusercontent.com/72667310/110687537-9b04ae80-81ae-11eb-929c-5bac497a2b38.png)
+
