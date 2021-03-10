@@ -1,4 +1,4 @@
-# Py_weather_challenge
+# Global Weather Visualizer
 A project to use API data to visualize weather around the world. 
 Data was obtained from OpenWeatherMap API from around 500 cities which were randomly selected by citipy.
 The data was collected in lists, which were made into a dataframe and written to a .csv. 
