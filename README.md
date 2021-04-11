@@ -30,3 +30,5 @@ ipywidgets library allow each range to be turned on and off.
 
 ![image](https://user-images.githubusercontent.com/72667310/110687537-9b04ae80-81ae-11eb-929c-5bac497a2b38.png)
 
+Global_Weather_at_A_Glance.twbx - This is a story type dashboard that displays weather conditions at various locations, constructed in Tableau Public. 
+![image](https://github.com/gspahlin/Global_weather_visualizer/blob/master/Pyweather/Global_Weather_Dashboard.jpg)
