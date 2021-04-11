@@ -13,7 +13,7 @@ Independant expansions:
 In order to streamline the data collection process I refactored my API notebook into a python script that can be run from the command line. After this 
 I wrote a jupyter notebook to display all the Celsius temperature data at once on a geoplot. Using the Ipywidgets library I made an interactive version of this in 
 which control buttons can be used to turn data ranges on and off. Finally, I created a story visualization in Tableau Public, in which weather maps exist for 
-temerature, humidity, wind speed and cloud cover (https://public.tableau.com/profile/greg.spahlinger#!/?activeTab=0). 
+temerature, humidity, wind speed and cloud cover (https://public.tableau.com/profile/greg.spahlinger#!/vizhome/GlobalWeatheratAGlance/Story1). 
 
 Files:
 
